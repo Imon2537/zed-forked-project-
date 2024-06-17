@@ -5,3 +5,10 @@
     "args": ["xtask", "clippy"]
   }
 ]
+[
+  {
+    "label": "clippy",
+    "command": "cargo",
+    "args": ["xtask", "clippy"]
+  }
+]
